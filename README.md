@@ -1,6 +1,6 @@
 # Campo Minato - Minesweeper
 Commodore64 BASIC!
 
-DROP ME A NOTE IF YOU FOUND THIS FUNNY, AMUSING OR DARE I SAY USEFUL :)
-THANKS!
-20 AUG 2020
+Drop Me a note if you found this funny, amusing or dare I say useful :)
+Thanks!
+20 Aug 2020
